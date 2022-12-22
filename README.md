@@ -41,6 +41,7 @@ Firmware Analysis: https://github.com/MatrixEditor/frontier-smart-api/blob/main/
 - `FS2026-0500-0106`: Silvercrest SIRD 14A2
 - `FS2026-0500-0115`: Hama HiFi Tuner DIT2000
 - `FS2026-0500-0127`: Noxon Nova M
+- `FS2026-0500-0137`: Roberts S2
 - `FS2026-0500-0138`: Sangean WFR-28
 - `FS2026-0500-0162`: Revo Pixis RX
 - `FS2026-0500-0178`: Philips AE800
